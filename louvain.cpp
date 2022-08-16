@@ -7,6 +7,7 @@
 #include <math.h>
 #include <fstream>
 using namespace std;
+//Clase Red Compleja
 class Red
 {
 public:
